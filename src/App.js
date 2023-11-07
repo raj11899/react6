@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Portfolio from './about';
-import ashImage from './images/rajkumar.jpg';
+import ashImage from './images/raj.jpg';
 import ContactInfo from './contact';
 
 function App() {
